@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### 我的广州TG群 欢迎加入
+https://t.me/joinchat/V9gPnr0bHvE0ODU1
+
 <!--
 **weivis/weivis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
