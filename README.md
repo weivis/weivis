@@ -1,5 +1,3 @@
-# 谭雪，我爱你
-
 ### 欢迎来到我的Github 👋 这里是唯酱(weivi)
 
 ### 我的项目ShirleyAi
