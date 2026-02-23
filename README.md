@@ -1,13 +1,7 @@
 ### 欢迎来到我的Github 👋 这里是唯酱(weivi)
 
-### 我的项目ShirleyAi
-
-  想以技术的形式，把我这段死去的恋情，永远留在我身边，努力将陪伴了我一年的女友做成AI，永远陪着我。
-
-  https://github.com/Shirley-WeiVi
-
-### 我的个人主页
-https://www.weivird.com/
+### 我的BiliBili
+https://space.bilibili.com/4028423
 
 ### 我的QQ群
 1130531420
