@@ -1,5 +1,8 @@
 ### 欢迎来到我的Github 👋 这里是唯酱(weivi)
 
+### 我的YOUTUBE
+https://www.youtube.com/@weivi-idea
+
 ### 我的BiliBili
 https://space.bilibili.com/4028423
 
